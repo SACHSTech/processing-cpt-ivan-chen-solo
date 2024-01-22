@@ -2,7 +2,7 @@ import processing.core.PApplet;
 
 /**
  * Main class to execute sketch
- * @author 
+ * @author Ivan Chen
  *
  */
 class Main {
